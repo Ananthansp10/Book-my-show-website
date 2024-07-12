@@ -1,0 +1,333 @@
+body{
+margin: 0;
+padding: 0;
+}
+.navbar{
+    width: 100%;
+    height:100px;
+}
+.navbar-left{
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+.navbar-right{
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+.image{
+    float: left;
+    margin-left: 60px;
+}
+.search-bar{
+    float: left;
+    margin-top: 33px;
+    margin-left: 10px;
+}
+.search-bar input{
+    width: 479px;
+    height: 40px;
+}
+.location{
+    float: left;
+    margin-left: 285px;
+    margin-top: 50px;
+}
+.signin-button{
+    float: left;
+    margin-top: 50px;
+    margin-left: 28px;
+}
+.location select{
+    width: 121px;
+    height: 30px;
+}
+.signin-button button{
+    width: 90px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+}
+.nav-button{
+    margin-top: 27px;
+    margin-left: 34px;
+    font-weight: 900;
+    font-size: x-large;
+}
+.sec-navbar{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(245, 245, 245);
+    margin-top: 21px;
+}
+.sec-nav-left{
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+.sec-nav-right{
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+.sec-nav-left li{
+   float: left;
+   list-style: none;
+   padding-left: 10px;
+   padding-top: 15px;
+}
+.sec-nav-right li{
+    float: left;
+    list-style: none;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.sec-nav-left .tag{
+    margin-left: 165px;
+}
+.sec-nav-right .tag{
+    margin-left: 325px;
+}
+.movie-row{
+    width: 100%;
+    height: 100px;
+}
+.heading-left{
+    width: 50%;
+    margin-top: 32px;
+    float: left;
+    padding-left: 213px;
+}
+.heading-right{
+    width: 50%;
+    margin-top: 32px;
+    float: left;
+    padding-left: 525px;
+    color: red;
+}
+.movies{
+    width: 100%;
+    margin-left: 100px;
+}
+.card{
+    float: left;
+    margin-left: 30px;
+}
+.first-row{
+    margin-left: 132px;
+}
+.first-row-image{
+    width: 92%;
+    margin-top: 30px;
+}
+.second-row h4{
+    margin-left:145px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.movie-card{
+    margin-left: 115px;
+}
+.third-row{
+    width: 100%;
+    height: 247px;
+    background-color: rgb(43, 49, 72);
+    margin-top:345px;
+}
+.logo{
+    padding-left: 115px;
+    padding-top: 20px;
+}
+.text{
+    width: 100%;
+}
+.text-left{
+    width:50%;
+    float: left;
+}
+.text-right{
+    width:50%;
+    float: left;
+}
+.text h3{
+    color: white;
+    margin-left: 137px;
+    margin-top: 15px;
+}
+.text-right h6{
+    margin-top: 55px;
+    margin-left: 510px;
+    color: red;
+}
+.text p{
+    color: white;
+    margin-left: 137px;
+}
+.movie-section{
+    background-color:rgb(43, 49, 72);
+    height: 500px;
+    width: 100%;
+}
+.movie-slider{
+    margin-left: 140px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.movie-names li{
+    color: white;
+    float: left;
+    list-style: none;
+    margin-left: 155px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+.fourth-row h4{
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+.fourth-row-movies{
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.custom-card {
+    height: 413px;
+    overflow: hidden;
+}
+.fifth-row{
+    margin-top: 490px;
+}
+.fifth-row h3{
+    margin-left: 155px;
+    font-weight: bold;
+}
+.sixth-row{
+    margin-top: 480px;
+    margin-left: 160px;
+}
+.sixth-row h3{
+    margin-top: 480px;
+    margin-left: 26px;
+    font-weight: bold;
+}
+.trending-search{
+    margin-top: 480px;
+    margin-left: 178px;
+}
+.trending-search h3{
+    font-weight: bold;
+    margin-left: 30px;
+}
+.block{
+    width: 90px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.block1{
+    width: 90px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.block2{
+    width: 90px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.block3{
+    width: 90px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.block4{
+    width: 195px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.block5{
+    width: 90px;
+    height: 60px;
+    background-color:wheat;
+    padding: 10px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.footer1{
+    margin-left: 15px;
+    margin-top: 170px;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    padding: 20px;
+}
+.foot1-image{
+    float: left;
+}
+.foot1-text{
+    float: left;
+    margin-left: 20px;
+    color: white;
+}
+.foot1-button{
+    float: left;
+    margin-left: 400px;
+}
+.foot1-button button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.footer2{
+    background-color: grey;
+    height: 700px;
+    width: 107%;
+    padding-left: 145px;
+    padding-top: 20px;
+}
+.foot-2-logo{
+    margin-top: 130px;
+    margin-left: 550px;
+}
+.links{
+    margin-left: 430px;
+    margin-top: 50px;
+}
+.links li{
+    float: left;
+    list-style: none;
+    margin-left: 33px;
+    font-size: x-large;
+}
+.links li:hover{
+    background-color:white;
+    height: 40px;
+}
+.copyright{
+    margin-top: 100px;
+    margin-left: 390px;
+}
